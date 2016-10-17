@@ -1,0 +1,19 @@
+{
+  "name": "debugger-attached",
+  "version": "1.0.0",
+  "description": "Checks if the Node debugger is attached",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliversalzburg/debugger-attached.git"
+  },
+  "author": "Oliver Salzburg <oliver.salzburg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliversalzburg/debugger-attached/issues"
+  },
+  "homepage": "https://github.com/oliversalzburg/debugger-attached#readme"
+}
