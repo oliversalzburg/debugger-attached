@@ -4,7 +4,7 @@
   "description": "Checks if the Node debugger is attached",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
