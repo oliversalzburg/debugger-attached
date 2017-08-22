@@ -1,6 +1,6 @@
 {
   "name": "debugger-attached",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Checks if the Node debugger is attached",
   "main": "index.js",
   "scripts": {
